@@ -1,0 +1,2 @@
+U folderu "Popis studenata" napravi svoj .txt file i nazovi ga svojim imenom i prezimenom u formatu "ime_prezime.txt". U file upiši što god želiš :)
+
