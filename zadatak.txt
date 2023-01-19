@@ -1,2 +1,4 @@
-U folderu "Popis studenata" napravi svoj .txt file i nazovi ga svojim imenom i prezimenom u formatu "ime_prezime.txt". U file upiši što god želiš :)
+U folderu "Popis studenata" napravi svoj .txt file i nazovi ga svojim imenom i prezimenom u formatu "ime_prezime.txt". U file upisi sto god zelis :)
+
+Kada to napravite, klik na GitHub Desktop -> "Changes" -> pod description napisite sto god ce vama, vasim kolegama i meni pojednostaviti pretragu commita, ukoliko to bude potrebno.
 
